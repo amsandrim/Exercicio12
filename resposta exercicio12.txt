@@ -1,0 +1,12 @@
+1) Algoritmo para travessia do rio
+
+Passo1: Homem leva a cabra
+Passo2: Homem retorna sozinho
+Passo3: Homem leva o lobo
+Passo4: Homem retorna com a cabra
+Passo5: Homem leva o maço de alfafa
+Passo6: Homem retorna sozinho
+Passo7: Homem leva a cabra
+
+
+2) https://github.com/amsandrim/Exercicio12.git
